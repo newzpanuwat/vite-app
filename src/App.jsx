@@ -4,7 +4,12 @@ import './App.css'
 
 function App() {
   const [count, setCount] = useState(0)
-
+  /** 
+    * * Important comment // this is vscode extension -> Better Comments
+    * ? should to do something
+    * TODO : remove this when ....
+    * ! Deprecated ... or datangerous
+  */
   return (
     <div className="App">
       <h1>Vite + React</h1>
